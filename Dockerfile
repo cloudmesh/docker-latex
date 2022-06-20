@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:22.04
 MAINTAINER Gregor von Laszewski <laszewski@gmail.com>
 
 # ############################################################
