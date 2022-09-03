@@ -1,6 +1,6 @@
 # LaTeX Dockerfile
 
-## Acknowledgements
+## Acknowledgments
 
 Continued work was in part funded by the NSF
 CyberTraining: CIC: CyberTraining for Students and Technologies
